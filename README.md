@@ -3,9 +3,11 @@ My name is Andres, I am from Colombia but live in Brisbane, Australia.
 
 I'm interested in programming and web development.
 
-I just finished a Diploma in IT with CoderAcademy.
+I just finished a Diploma in IT with CoderAcademy (web development).
 
-- 🌱 I’m currently learning MERN stack
+I have experience with HTML, CSS, JavaScript, Python, MySQL, MongoDB, NodeJs
+
+- 🌱 I’m currently learning how to test react frontend applications using Jest
 
 
 
