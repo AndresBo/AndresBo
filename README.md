@@ -7,7 +7,7 @@ I just finished a Diploma in IT with CoderAcademy (web development).
 
 I have experience with HTML, CSS, JavaScript, Python, MySQL and MERN stack.
 
-- 🌱 I’m currently learning how to test react frontend applications using Jest
+- 🌱 I’m currently learning how to do E2E testing using Cypress
 
 
 
