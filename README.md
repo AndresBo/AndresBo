@@ -3,11 +3,7 @@ My name is Andres, I am from Colombia but live in Brisbane, Australia.
 
 I'm interested in programming and web development.
 
-I just finished a Diploma in IT with CoderAcademy (web development).
-
 I have experience with HTML, CSS, JavaScript, Python, MySQL and MERN stack.
-
-- 🌱 I’m currently learning how to do E2E testing using Cypress
 
 
 
